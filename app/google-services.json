@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "744254116866",
+    "project_id": "openpay-challenge",
+    "storage_bucket": "openpay-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744254116866:android:58e9d47ff4fe9d27f8431b",
+        "android_client_info": {
+          "package_name": "mx.openpay.challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744254116866-g21mi68mm1iv50kh69rd3t5cdi72rs8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.openpay.challenge",
+            "certificate_hash": "23363b44cd305d6b8245fc7d00332fa65568f762"
+          }
+        },
+        {
+          "client_id": "744254116866-gk80m8ae1k6inlbtvsc0pqpa1npu0vo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBxgLVKqqDzCnPonMCEM15dtnNP5NGJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744254116866-gk80m8ae1k6inlbtvsc0pqpa1npu0vo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
